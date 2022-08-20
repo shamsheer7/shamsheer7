@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsheer7&label=Profile%20views&color=0e75b6&style=flat" alt="shamsheer7" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/11998821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11998821" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shamsheerinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamsheerinder" height="30" width="40" /></a>
