@@ -1,4 +1,4 @@
-⚡ I’m interested in New Tech, Full Stack Development, Python <br> 🌱 I’m Currently Preparing For Cloud Certifications.<br> 🥅 2022 Goals: Contribute to open-source projects and learn about cloud computing.<br> 📫 Email : shamsheerinder@gmail.com
+⚡ I’m interested in Full Stack Development and Data Analytics <br> 🌱 I’m Currently Preparing For Cloud Certifications.<br> 🥅 2022 Goals: Contribute to open-source projects and learn about cloud computing.<br> 📫 Email : shamsheerinder@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamsheer-singh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11998821) 
