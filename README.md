@@ -1,5 +1,4 @@
-⚡ I’m interested in Full Stack Development and Data Analytics <br> 🌱 I’m Currently Preparing For Cloud Certifications.<br> 🥅 2022 Goals: Contribute to open-source projects and learn about cloud computing.<br> 📫 Email : shamsheerinder@gmail.com <br>
-💻 Website : [shamsheerportfolio.vercel.app](https://shamsheerportfolio.vercel.app)
+⚡ Experienced developer with a Master's degree in Computer Science and 3 years of work experience in software development. <br> <br> 🌱 Demonstrated ability to work on large-scale projects, and collaborate with cross-functional teams to deliver high-quality software products.<br> <br> 📫 Email : shamsheerinder@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamsheer-singh) 
